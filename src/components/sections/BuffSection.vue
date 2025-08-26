@@ -2,8 +2,8 @@
   <div class="author-content-item buff">
     <div class="author-content-item-tips">特长</div>
     <span class="buff-title">
-      <span style="opacity:.6;margin-bottom:8px">脑回路新奇的 酸菜鱼</span> 
-      <span>Coding指数 MAX</span>
+      <span style="opacity:.6;margin-bottom:8px">喜欢尝鲜各种软件和新出现的互联网技术</span> 
+      <span>折腾相关好奇指数 MAX</span>
     </span>
     <div class="card-background-icon">
       <i class="anzhiyufont anzhiyu-icon-dice-d20"></i>

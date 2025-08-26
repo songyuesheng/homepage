@@ -13,7 +13,7 @@
         <IntroSection />
 
         <!-- Hello动画区域 -->
-        <HelloSection />
+        <!-- <HelloSection /> -->
 
         <!-- 技能和生涯展示 -->
         <SkillsSection />

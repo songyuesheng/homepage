@@ -187,8 +187,15 @@ export function useCareersData() {
   const careers = ref<CareerItem[]>([
     {
       id: '1',
+      name: 'EDU，计算机应用技术专业',
+      period: '2020-2023',
+      description: '山东协和学院',
+      color: '#357ef5'
+    },
+    {
+      id: '2',
       name: 'EDU，计算机科学与技术专业',
-      period: '2020-2024',
+      period: '2023-2025',
       description: '山东协和学院',
       color: '#357ef5'
     }

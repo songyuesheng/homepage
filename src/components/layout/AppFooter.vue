@@ -51,7 +51,7 @@
           title="本站使用安知鱼主题"
         >
           <img 
-            src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg" 
+            src="https://img.shields.io/badge/zsr-Ubuntu-E95420?logo=ubuntu&label=Server" 
             alt="本站使用安知鱼主题"
           >
         </a>
@@ -65,7 +65,49 @@
           title="本站使用安知鱼主题"
         >
           <img 
-            src="https://npm.elemecdn.com/anzhiyu-theme-static@1.0.9/img/Theme-AnZhiYu-2E67D3.svg" 
+            src="https://img.shields.io/badge/zsr-Vue-4FC08D?logo=Vue.js&label=Frame" 
+            alt="本站使用安知鱼主题"
+          >
+        </a>
+        <a 
+          class="github-badge" 
+          target="_blank" 
+          href="#" 
+          @click.prevent
+          style="margin-inline:5px" 
+          data-title="本站使用安知鱼主题" 
+          title="本站使用安知鱼主题"
+        >
+          <img 
+            src="https://img.shields.io/badge/zsr-Vite-blue?logo=vite&label=Build" 
+            alt="本站使用安知鱼主题"
+          >
+        </a>
+        <a 
+          class="github-badge" 
+          target="_blank" 
+          href="#" 
+          @click.prevent
+          style="margin-inline:5px" 
+          data-title="本站使用安知鱼主题" 
+          title="本站使用安知鱼主题"
+        >
+          <img 
+            src="https://img.shields.io/badge/zsr-EdgeOne-blue?logo=icloud&label=CDN" 
+            alt="本站使用安知鱼主题"
+          >
+        </a>
+        <a 
+          class="github-badge" 
+          target="_blank" 
+          href="#" 
+          @click.prevent
+          style="margin-inline:5px" 
+          data-title="本站使用安知鱼主题" 
+          title="本站使用安知鱼主题"
+        >
+          <img 
+            src="https://img.shields.io/badge/zsr-Github-181717?logo=github&label=Source" 
             alt="本站使用安知鱼主题"
           >
         </a>

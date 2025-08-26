@@ -35,7 +35,7 @@
             <!-- 技能列表（悬停时显示） -->
             <div class="skills-list">
               <div 
-                v-for="skill in skillIcons.slice(0, 12)" 
+                v-for="skill in skillIcons.slice(0, 16)" 
                 :key="skill.id"
                 class="skill-info"
               >
@@ -81,7 +81,7 @@
           <img 
             class="author-content-img no-lightbox" 
             alt="生涯" 
-            src="https://img02.anheyu.com/adminuploads/1/2022/09/25/633006cc55e07.png"
+            src="https://img20.360buyimg.com/openfeedback/jfs/t1/309458/35/18671/4170/687f1093Fd2b00cf5/dcefafcc0ab2dc3d.webp"
           >
         </div>
       </div>
@@ -181,7 +181,7 @@ onMounted(() => {
   margin-top: 40px;
   display: flex;
   flex-wrap: nowrap;
-  animation: rowup 60s linear infinite;
+  animation: rowup 25s linear infinite;
 }
 
 #skills-tags-group-all .tags-group-icon-pair {
@@ -316,9 +316,6 @@ onMounted(() => {
   bottom: 20px;
   width: 100%;
   transition: 0.6s;
-  z-index: -1;
-  max-height: 200px;
-  object-fit: contain;
 }
 
 .etc {

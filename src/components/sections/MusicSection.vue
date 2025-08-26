@@ -1,6 +1,6 @@
 <template>
   <div class="author-content-item like-music"
-       style="background:url(https://p2.music.126.net/Mrg1i7DwcwjWBvQPIMt_Mg==/79164837213438.jpg) top/cover no-repeat">
+       style="background:url(https://blog.strarry.top/static/music.jpg) top/cover no-repeat">
     <div class="card-content">
       <div class="author-content-item-tips">音乐偏好</div>
       <span class="author-content-item-title">周杰伦、孙燕姿、华语流行</span>
@@ -63,7 +63,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background: rgba(0, 0, 0, 0.4);
   border-radius: 24px;
   color: var(--anzhiyu-white);
   min-height: 400px;

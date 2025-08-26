@@ -1,7 +1,3 @@
-/**
- * 安知鱼主题个人主页类型定义
- */
-
 // 技能图标接口
 export interface SkillIcon {
   id: string
