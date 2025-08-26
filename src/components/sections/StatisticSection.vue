@@ -106,7 +106,6 @@ onMounted(() => {
   flex-wrap: wrap;
   justify-content: space-between;
   width: 100%;
-  margin-top: 0.5rem;
 }
 
 .about-statistic {
@@ -225,7 +224,6 @@ onMounted(() => {
   max-height: 400px;
   position: relative;
   overflow: hidden;
-  margin-bottom: .5rem;
   height: 60%;
   background-size: 100%;
   background-repeat: no-repeat;
@@ -330,7 +328,6 @@ onMounted(() => {
   
   .about-statistic {
     width: 100% !important;
-    margin-bottom: 1rem;
   }
   
   .author-content-item.selfInfo {

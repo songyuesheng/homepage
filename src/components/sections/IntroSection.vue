@@ -57,7 +57,6 @@ onMounted(() => {
   display: flex;
   gap: 1%;
   align-items: stretch;
-  margin-bottom: 0.5rem;
   justify-content: space-between;
   animation: slide-in 0.6s 0.3s backwards;
 }
@@ -219,6 +218,7 @@ onMounted(() => {
   .myInfoAndSayHello,
   .aboutsiteTips {
     width: 100% !important;
+    margin-top: 1rem;
   }
   
   .title2 {

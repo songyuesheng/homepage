@@ -122,7 +122,6 @@ onMounted(() => {
   display: flex;
   gap: 2%;
   align-items: stretch;
-  margin-bottom: 1rem;
   animation: slide-in 0.6s 0.5s backwards;
 }
 
@@ -369,6 +368,10 @@ onMounted(() => {
   .author-content-item.skills,
   .author-content-item.careers {
     width: 100%;
+  }
+
+  .author-content-item.careers {
+    margin-top: 1rem;
   }
 }
 </style>

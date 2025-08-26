@@ -4,15 +4,6 @@
       <!-- 主要页脚内容 -->
       <div id="anzhiyu-footer">
         <div class="footer-group">
-          <div class="footer-title">服务</div>
-          <div class="footer-links">
-            <a class="footer-item" title="个人主页" href="#" @click.prevent>个人主页</a>
-            <a class="footer-item" title="博客" href="#" @click.prevent>博客</a>
-            <a class="footer-item" title="项目展示" href="#" @click.prevent>项目展示</a>
-          </div>
-        </div>
-        
-        <div class="footer-group">
           <div class="footer-title">技术</div>
           <div class="footer-links">
             <a class="footer-item" title="前端开发" href="#" @click.prevent>前端开发</a>
@@ -186,7 +177,6 @@
 
 .footer-group {
   min-width: 120px;
-  margin-bottom: 20px;
 }
 
 .footer-title {
@@ -308,8 +298,7 @@
   }
 
   #anzhiyu-footer {
-    flex-direction: column;
-    text-align: center;
+    flex-direction: row;
     padding: 0 1rem;
   }
 
